@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Vicut Kitle Endeksi/1.0.0": {
+        "runtime": {
+          "Vicut Kitle Endeksi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vicut Kitle Endeksi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

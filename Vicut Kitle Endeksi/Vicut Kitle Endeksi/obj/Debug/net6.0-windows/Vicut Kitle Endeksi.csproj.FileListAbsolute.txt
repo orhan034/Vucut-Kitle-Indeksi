@@ -1,0 +1,18 @@
+C:\Users\99451\Desktop\C#\Vicut Kitle Endeksi\Vicut Kitle Endeksi\bin\Debug\net6.0-windows\Vicut Kitle Endeksi.exe
+C:\Users\99451\Desktop\C#\Vicut Kitle Endeksi\Vicut Kitle Endeksi\bin\Debug\net6.0-windows\Vicut Kitle Endeksi.deps.json
+C:\Users\99451\Desktop\C#\Vicut Kitle Endeksi\Vicut Kitle Endeksi\bin\Debug\net6.0-windows\Vicut Kitle Endeksi.runtimeconfig.json
+C:\Users\99451\Desktop\C#\Vicut Kitle Endeksi\Vicut Kitle Endeksi\bin\Debug\net6.0-windows\Vicut Kitle Endeksi.dll
+C:\Users\99451\Desktop\C#\Vicut Kitle Endeksi\Vicut Kitle Endeksi\bin\Debug\net6.0-windows\Vicut Kitle Endeksi.pdb
+C:\Users\99451\Desktop\C#\Vicut Kitle Endeksi\Vicut Kitle Endeksi\obj\Debug\net6.0-windows\Vicut Kitle Endeksi.csproj.AssemblyReference.cache
+C:\Users\99451\Desktop\C#\Vicut Kitle Endeksi\Vicut Kitle Endeksi\obj\Debug\net6.0-windows\Vicut_Kitle_Endeksi.Form1.resources
+C:\Users\99451\Desktop\C#\Vicut Kitle Endeksi\Vicut Kitle Endeksi\obj\Debug\net6.0-windows\Vicut_Kitle_Endeksi.Properties.Resources.resources
+C:\Users\99451\Desktop\C#\Vicut Kitle Endeksi\Vicut Kitle Endeksi\obj\Debug\net6.0-windows\Vicut Kitle Endeksi.csproj.GenerateResource.cache
+C:\Users\99451\Desktop\C#\Vicut Kitle Endeksi\Vicut Kitle Endeksi\obj\Debug\net6.0-windows\Vicut Kitle Endeksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99451\Desktop\C#\Vicut Kitle Endeksi\Vicut Kitle Endeksi\obj\Debug\net6.0-windows\Vicut Kitle Endeksi.AssemblyInfoInputs.cache
+C:\Users\99451\Desktop\C#\Vicut Kitle Endeksi\Vicut Kitle Endeksi\obj\Debug\net6.0-windows\Vicut Kitle Endeksi.AssemblyInfo.cs
+C:\Users\99451\Desktop\C#\Vicut Kitle Endeksi\Vicut Kitle Endeksi\obj\Debug\net6.0-windows\Vicut Kitle Endeksi.csproj.CoreCompileInputs.cache
+C:\Users\99451\Desktop\C#\Vicut Kitle Endeksi\Vicut Kitle Endeksi\obj\Debug\net6.0-windows\Vicut Kitle Endeksi.dll
+C:\Users\99451\Desktop\C#\Vicut Kitle Endeksi\Vicut Kitle Endeksi\obj\Debug\net6.0-windows\refint\Vicut Kitle Endeksi.dll
+C:\Users\99451\Desktop\C#\Vicut Kitle Endeksi\Vicut Kitle Endeksi\obj\Debug\net6.0-windows\Vicut Kitle Endeksi.pdb
+C:\Users\99451\Desktop\C#\Vicut Kitle Endeksi\Vicut Kitle Endeksi\obj\Debug\net6.0-windows\Vicut Kitle Endeksi.genruntimeconfig.cache
+C:\Users\99451\Desktop\C#\Vicut Kitle Endeksi\Vicut Kitle Endeksi\obj\Debug\net6.0-windows\ref\Vicut Kitle Endeksi.dll
